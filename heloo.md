@@ -1,2 +1,0 @@
-# NewGroupe
-### Hello world!
